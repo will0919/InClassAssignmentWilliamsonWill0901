@@ -1,0 +1,80 @@
+STYLES FOR IN-CLASS ASSIGNMENT 2
+
+    h{
+        font-size: 9px;
+        text-align: left;
+        font-family: serif;
+        float:left;
+        margin-top: 20px;
+    } 
+
+    h2{
+    font-size: 10px; 
+       text-align: center;
+        text-align: top;
+        font-family: serif;
+    }
+
+     h3{
+        color: cornflowerblue;
+        font-size: 3rem;
+        font-family: sans-serif
+                
+    }
+
+        body {
+        width: 800px;
+        padding: 100px;
+    
+        }
+    ul {
+        font-size: 2rem;
+        }
+
+        li{
+        display: inline;
+        padding: 20px;
+        background-color: skyblue;
+        width: 800px;
+        
+        
+}
+        p{
+            font-size: 4rem;
+            font-family: sans-serif;
+            background-image: url("eye.jpg");
+            background-color: blueviolet;
+            background-size: contain
+            width: 800px;
+            height: 350px;
+            border-top-style: solid;
+            border-top-color: darkblue;
+            border-top-width: 40px;
+            
+        }
+        p2{
+            font-size:3rem;
+            font-family:sans-serif;
+            background-size: contain;
+            color:cornflowerblue;
+            background-color: blueviolet;
+            width: 800px;
+            height: 300px;
+    
+        }
+
+        p3{
+            font-size:1rem;
+            font-family:sans-serif;
+            width: 600px;
+        }
+         p4{
+            font-size:1rem;
+            font-family:sans-serif;
+            width: 600px;
+        }
+          p5{
+            font-size:1rem;
+            font-family:sans-serif;
+            width: 600px;
+        }
